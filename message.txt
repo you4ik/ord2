@@ -1,0 +1,37 @@
+
+APPLE (48.2 Gram)
+**06.07 orders:**
+- 6 @ 3000, STOP: 300, 
+- 6 @ 0, STOP: 300, 
+- 1 @ 1000, STOP: 300, 
+- 8 @ 3500, STOP: 0, 
+- 2 @ 1600, STOP: 300, 
+- 1 @ 600, STOP: 300, 
+- 1 @ 1000, STOP: 300, 
+- 1 @ 1000, STOP: 300, 
+
+**07.07 orders:**
+- 3 @ 2400, STOP: 300, 
+- 15 @ 0, STOP: 300, 
+- 1 @ 1000, STOP: 300, 
+
+**08.07 orders:**
+- 7 @ 3000, STOP: 0, 
+- 1 @ 0, STOP: 0, ME HABIBI
+
+**09.07 orders:**
+- 1 @ 800, STOP: 300, 
+- 1 @ 1000, STOP: 300, 
+- 5 @ 700, STOP: 300, 
+
+**10.07 orders:**
+- 1 @ 1000, STOP: 300, 
+- 4 @ 1700, STOP: 0, 
+- 2 @ 0, STOP: 0,  80 USDT
+
+
+**TOTAL:**
+- AMOUNT: 69
+- SUMMA: 23300,
+- STOP: 4200,
+- KASSA BALANCE: **18900 + 270 EUR + 80 USDT**

@@ -87,3 +87,5 @@ ${formatOrders(orders)}
 
 // Выводим сообщение
 console.log(message);
+// Записываем сообщение в файл message.txt
+fs.writeFileSync('message.txt', message);
