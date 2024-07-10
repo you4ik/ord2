@@ -77,6 +77,7 @@ const message = `
 APPLE (48.2 Gram)
 ${formatOrders(orders)}
 
+
 **TOTAL:**
 - AMOUNT: ${totalItems(orders)+2}
 - SUMMA: ${totalSum(orders)},
