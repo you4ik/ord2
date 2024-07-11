@@ -4,8 +4,8 @@ const fs = require('fs');
 const getOrders = JSON.parse(fs.readFileSync('orders.json', 'utf-8'));
 
 // Определение интересующего диапазона дат
-const startDate = '06.07';
-const endDate = '10.07';
+const startDate = '11.07';
+const endDate = '15.07';
 
 // Функция для фильтрации заказов по диапазону дат
 function filterOrdersByDateRange(orders, startDate, endDate) {
@@ -79,10 +79,10 @@ ${formatOrders(orders)}
 
 
 **TOTAL:**
-- AMOUNT: ${totalItems(orders)+2}
+- AMOUNT: ${totalItems(orders)}
 - SUMMA: ${totalSum(orders)},
 - STOP: ${totalStop(orders)},
-- KASSA BALANCE: **${totalSum(orders) - totalStop(orders) - 200} + 270 EUR + 80 USDT**
+- KASSA BALANCE: **${totalSum(orders) - totalStop(orders)} + 500SEK + 270 EUR + 80 USDT**
 `;
 
 // Выводим сообщение
