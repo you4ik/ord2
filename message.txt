@@ -6,9 +6,17 @@ APPLE (49.5 Gram)
 - 2 @ 1600, STOP: 300, 
 - 2 @ 600, STOP: 300, +80EUR
 
+**12.07 orders:**
+- 1 @ 1000, STOP: 300, 
+- 3 @ 2500, STOP: 300, 
+- 1 @ 900, STOP: 300, 
+- 1 @ 800, STOP: 300, 
+- 2 @ 0, STOP: 300, 
+- 1 @ 0, STOP: 300, 80EUR
 
 **TOTAL:**
-- AMOUNT: 7
-- SUMMA: 4000,
-- STOP: 800,
-- KASSA BALANCE: **3700SEK + 350 EUR + 80 USDT**
+- AMOUNT: 16
+- SUMMA: 9200,
+- STOP: 2600,
+- KASSA BALANCE: **7100SEK + 350 EUR + 80 USDT**
+        
