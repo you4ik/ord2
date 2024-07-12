@@ -110,7 +110,23 @@
         {
             "kol": 2,
             "sum": 1000,
-            "stop": 0
+            "stop": -100,
+            "desc": "1+ FOR FREE FOR YESTERDAY"
+        },
+        {
+            "kol": 1,
+            "sum": 800,
+            "stop": 300
+        },{
+            "kol": 2,
+            "sum": 1600,
+            "stop": 300
+        },
+        {
+            "kol": 2,
+            "sum": 600,
+            "stop": 300,
+            "desc": "+80EUR"
         }
     ]
 }

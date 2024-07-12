@@ -74,7 +74,7 @@ function totalStop(orders) {
 
 // Собираем сообщение
 const message = `
-APPLE (48.2 Gram)
+APPLE (49.5 Gram)
 ${formatOrders(orders)}
 
 
@@ -82,7 +82,7 @@ ${formatOrders(orders)}
 - AMOUNT: ${totalItems(orders)}
 - SUMMA: ${totalSum(orders)},
 - STOP: ${totalStop(orders)},
-- KASSA BALANCE: **${totalSum(orders) - totalStop(orders)} + 500SEK + 270 EUR + 80 USDT**
+- KASSA BALANCE: **${totalSum(orders) - totalStop(orders)+500}SEK + 350 EUR + 80 USDT**
 `;
 
 // Выводим сообщение
