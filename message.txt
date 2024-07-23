@@ -1,22 +1,45 @@
 
 APPLE (49.5 Gram)
-**11.07 orders:**
-- 2 @ 1000, STOP: -100, 1+ FOR FREE FOR YESTERDAY
-- 1 @ 800, STOP: 300, 
-- 2 @ 1600, STOP: 300, 
-- 2 @ 600, STOP: 300, +80EUR
-
-**12.07 orders:**
+**16.07 orders:**
+- 3 @ 2400, STOP: 300, 
 - 1 @ 1000, STOP: 300, 
-- 3 @ 2500, STOP: 300, 
-- 1 @ 900, STOP: 300, 
-- 1 @ 800, STOP: 300, 
-- 2 @ 0, STOP: 300, 
-- 1 @ 0, STOP: 300, 80EUR
+- 6 @ 3000, STOP: 300, 
+
+**17.07 orders:**
+- 0 @ -3000, STOP: 300, take ap drop 3000
+- 10 @ 0, STOP: 300, 
+
+**18.07 orders:**
+- 2 @ 1600, STOP: 300, 
+- 1 @ 1000, STOP: 300, 
+- 2 @ 1500, STOP: 300, 
+- 2 @ 1600, STOP: 300, 
+- 1 @ 0, STOP: 0, 
+
+**19.07 orders:**
+- 1 @ 1700, STOP: 300, 
+- 5 @ 2000, STOP: 0, 
+- 1 @ 1000, STOP: 300, 
+
+**20.07 orders:**
+- 1 @ 1000, STOP: 300, 
+- 2 @ 1600, STOP: 300, 
+- 1 @ 1000, STOP: 300, 
+- 1 @ 0, STOP: 0, 
+
+**21.07 orders:**
+- 1 @ 1000, STOP: 300, 
+- 5 @ 0, STOP: 300, 
+- 2 @ 1600, STOP: 300, 
+- 7 @ 0, STOP: 0, faktura till 26.07
+
+**22.07 orders:**
+- 5 @ 0, STOP: 300, 
+- 2 @ 1600, STOP: 300,
+
 
 **TOTAL:**
-- AMOUNT: 16
-- SUMMA: 9200,
-- STOP: 2600,
-- KASSA BALANCE: **7100SEK + 350 EUR + 80 USDT**
-        
+- AMOUNT: 64
+- SUMMA: 21600,
+- STOP: 5700,
+- KASSA BALANCE: **16400SEK + 420 EUR**
